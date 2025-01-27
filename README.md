@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm currently working on my startup project, also on the project VRUASSIA<br>👯I want to collaborate with optimistic, responsible and well-knowing people<br>🔖I'm currently learning about backend development, cause I'm a frontend developer, to become a fullstack engineer<br>
+💻I'm currently working on my startup project <br>👯I want to collaborate with optimistic, responsible and well-knowing people<br>🔖I'm currently learning about backend development, cause I'm a frontend developer, to become a fullstack engineer<br>
 
 
 ## 🌐 Socials:
