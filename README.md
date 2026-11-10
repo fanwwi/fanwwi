@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./assets/banner.png"
+    src="./assets/banner.jpg"
     width="100%"
     alt="Farangiz GitHub Banner"
   />
