@@ -1,12 +1,12 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:6D28D9,100:0D0B12&height=130&section=header"/>
+<img width="100%" src="./assets/banner.jpg"/>
 
 # F A R A N G I Z
 
 ### Building ideas into products.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+Software+Builder;Turning+ideas+into+technology;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer;AI+%26+Software+Builder;Turning+ideas+into+technology;Always+learning.+Always+building." alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D0B12?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fanwwi)
 [![Instagram](https://img.shields.io/badge/Instagram-0D0B12?style=for-the-badge&logo=instagram&logoColor=E879F9)](https://instagram.com/fanwwi_)
