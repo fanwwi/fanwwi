@@ -62,17 +62,24 @@ I'm a developer interested in building meaningful digital products, exploring ar
 
 ## `04` — Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/fanwwi/medscankg">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanwwi&repo=medscankg&theme=transparent&hide_border=true&bg_color=100B18&title_color=A78BFA&text_color=D4D4D8" alt="MedScanKG repository card"/>
-</a>
-
-<a href="https://github.com/fanwwi/wise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanwwi&repo=wise&theme=transparent&hide_border=true&bg_color=100B18&title_color=A78BFA&text_color=D4D4D8" alt="WISE repository card"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>MedScanKG</h3>
+      <p>AI-powered medical imaging project focused on analyzing lung scans.</p>
+      <a href="https://github.com/fanwwi/medscankg">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>WISE</h3>
+      <p>Education platform designed to support students throughout the university admissions process.</p>
+      <a href="https://github.com/fanwwi/wise">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## `05` — GitHub Analytics
 
