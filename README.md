@@ -1,10 +1,10 @@
-<div align="center">
-  <img
-    src="./assets/banner.jpg"
-    width="100%"
-    alt="Farangiz GitHub Banner"
-  />
+ <div align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="Farangiz GitHub Banner" />
 </div>
+
+<br/>
+
+<div align="center">
 
 # F A R A N G I Z
 
@@ -12,11 +12,11 @@
 
 **Full-Stack Developer · AI Builder · Founder**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+digital+products.;Exploring+the+world+of+AI.;Turning+ideas+into+reality.;Always+learning.+Always+building.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+digital+products.;Exploring+the+world+of+AI.;Turning+ideas+into+reality.;Always+learning.+Always+building." alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/fanwwi)
-[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=E879F9)](https://instagram.com/fanwwi_)
-[![Discord](https://img.shields.io/badge/Discord-18181B?style=flat-square&logo=discord&logoColor=A78BFA)](https://discord.gg/fanwwi__29000)
+[![GitHub](https://img.shields.io/badge/GitHub-18121F?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/fanwwi)
+[![Instagram](https://img.shields.io/badge/Instagram-18121F?style=flat-square&logo=instagram&logoColor=E879F9)](https://instagram.com/fanwwi_)
+[![Discord](https://img.shields.io/badge/Discord-18121F?style=flat-square&logo=discord&logoColor=A78BFA)](https://discord.gg/fanwwi__29000)
 
 </div>
 
@@ -38,12 +38,12 @@ I'm a developer and tech entrepreneur passionate about building products that so
 
 ## ✦ What I'm Working On
 
-| Focus                   | Direction                                        |
-| ----------------------- | ------------------------------------------------ |
-| Software Engineering    | Full-stack development and scalable architecture |
+| Focus | Direction |
+|:--|:--|
+| Software Engineering | Full-stack development and scalable architecture |
 | Artificial Intelligence | AI-powered products and intelligent applications |
-| Product Development     | Turning ideas into real-world solutions          |
-| Open Source             | Building, sharing and collaborating              |
+| Product Development | Turning ideas into real-world solutions |
+| Open Source | Building, sharing and collaborating |
 
 ---
 
@@ -93,11 +93,11 @@ I'm a developer and tech entrepreneur passionate about building products that so
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fanwwi&show_icons=true&hide_border=true&bg_color=18181B&title_color=A78BFA&icon_color=A78BFA&text_color=D4D4D8&ring_color=A78BFA" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fanwwi&show_icons=true&hide_border=true&bg_color=100B18&title_color=A78BFA&icon_color=A78BFA&text_color=D4D4D8&ring_color=A78BFA" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=fanwwi&theme=transparent&hide_border=true&background=18181B&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=D4D4D8&dates=71717A" />
+<img width="49%" src="https://streak-stats.demolab.com?user=fanwwi&theme=transparent&hide_border=true&background=100B18&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=D4D4D8&dates=8B8499" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanwwi&layout=compact&hide_border=true&bg_color=18181B&title_color=A78BFA&text_color=D4D4D8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanwwi&layout=compact&hide_border=true&bg_color=100B18&title_color=A78BFA&text_color=D4D4D8" />
 
 </div>
 
@@ -107,7 +107,7 @@ I'm a developer and tech entrepreneur passionate about building products that so
 
 ### Let's build something meaningful.
 
-_Curiosity drives innovation. Consistency makes it real._
+*Curiosity drives innovation. Consistency makes it real.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fanwwi&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
 
