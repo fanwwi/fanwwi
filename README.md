@@ -38,12 +38,12 @@ I'm a developer and tech entrepreneur passionate about building products that so
 
 ## ✦ What I'm Working On
 
-| Focus | Direction |
-|---|---|
-| Software Engineering | Full-stack development and scalable architecture |
+| Focus                   | Direction                                        |
+| ----------------------- | ------------------------------------------------ |
+| Software Engineering    | Full-stack development and scalable architecture |
 | Artificial Intelligence | AI-powered products and intelligent applications |
-| Product Development | Turning ideas into real-world solutions |
-| Open Source | Building, sharing and collaborating |
+| Product Development     | Turning ideas into real-world solutions          |
+| Open Source             | Building, sharing and collaborating              |
 
 ---
 
@@ -53,7 +53,6 @@ I'm a developer and tech entrepreneur passionate about building products that so
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-24212D?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-24212D?style=flat-square&logo=typescript&logoColor=7BA7FF)
-![Python](https://img.shields.io/badge/Python-24212D?style=flat-square&logo=python&logoColor=FFD43B)
 ![HTML5](https://img.shields.io/badge/HTML5-24212D?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-24212D?style=flat-square&logo=css3&logoColor=1572B6)
 
@@ -70,11 +69,13 @@ I'm a developer and tech entrepreneur passionate about building products that so
 
 ![Node.js](https://img.shields.io/badge/Node.js-24212D?style=flat-square&logo=nodedotjs&logoColor=6DA55F)
 ![Express](https://img.shields.io/badge/Express-24212D?style=flat-square&logo=express&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/Django-24212D?style=flat-square&logo=django&logoColor=44B78B)
-![Django REST](https://img.shields.io/badge/Django_REST-24212D?style=flat-square&logo=django&logoColor=FF6B6B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24212D?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Supabase](https://img.shields.io/badge/Supabase-24212D?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Firebase](https://img.shields.io/badge/Firebase-24212D?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+**Mobile Development**
+
+![React Native](https://img.shields.io/badge/React_Native-24212D?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-24212D?style=flat-square&logo=expo&logoColor=FFFFFF)
 
 **Tools & Workflow**
 
@@ -106,7 +107,7 @@ I'm a developer and tech entrepreneur passionate about building products that so
 
 ### Let's build something meaningful.
 
-*Curiosity drives innovation. Consistency makes it real.*
+_Curiosity drives innovation. Consistency makes it real._
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fanwwi&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
 
