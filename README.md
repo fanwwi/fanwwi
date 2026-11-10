@@ -1,16 +1,16 @@
  <div align="center">
 
-<img width="100%" src="./assets/banner.jpg"/>
+<img width="100%" src="./assets/banner.jpg" alt="Farangiz banner"/>
 
 # F A R A N G I Z
 
 ### Building ideas into products.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer;AI+%26+Software+Builder;Turning+ideas+into+technology;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer;AI+%26+Software+Builder;Turning+ideas+into+technology;Always+learning.+Always+building" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D0B12?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fanwwi)
 [![Instagram](https://img.shields.io/badge/Instagram-0D0B12?style=for-the-badge&logo=instagram&logoColor=E879F9)](https://instagram.com/fanwwi_)
-[![Discord](https://img.shields.io/badge/Discord-0D0B12?style=for-the-badge&logo=discord&logoColor=A78BFA)](YOUR_DISCORD_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0B12?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/farangiz-anvarjanova-5716a8310)
 
 </div>
 
@@ -64,11 +64,11 @@ I'm a developer interested in building meaningful digital products, exploring ar
 
 <div align="center">
 
-<a href="https://github.com/fanwwi/REPOSITORY_1">
+<a href="https://github.com/fanwwi/medscankg">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanwwi&repo=REPOSITORY_1&theme=transparent&hide_border=true&bg_color=100B18&title_color=A78BFA&text_color=D4D4D8" />
 </a>
 
-<a href="https://github.com/fanwwi/REPOSITORY_2">
+<a href="https://github.com/fanwwi/wise">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fanwwi&repo=REPOSITORY_2&theme=transparent&hide_border=true&bg_color=100B18&title_color=A78BFA&text_color=D4D4D8" />
 </a>
 
@@ -96,7 +96,7 @@ I'm a developer interested in building meaningful digital products, exploring ar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fanwwi&bg_color=100B18&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fanwwi&bg_color=100B18&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Farangiz%27s%20Contribution%20Graph" width="100%" alt="GitHub activity graph" />
 
 </div>
 
@@ -108,6 +108,6 @@ I'm a developer interested in building meaningful digital products, exploring ar
 
 _Turning curiosity into technology._
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,100:6D28D9&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,100:6D28D9&height=100&section=footer" />
 
 </div>
