@@ -2,8 +2,6 @@
 
 <img width="100%" src="./assets/banner.jpg" alt="Farangiz banner"/>
 
-# F A R A N G I Z
-
 ### Building ideas into products.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer;AI+%26+Software+Builder;Turning+ideas+into+technology;Always+learning.+Always+building" alt="Typing SVG"/>
